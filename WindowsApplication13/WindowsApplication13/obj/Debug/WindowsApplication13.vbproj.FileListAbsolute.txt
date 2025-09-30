@@ -1,0 +1,11 @@
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe.config
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.exe
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.pdb
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\bin\Debug\WindowsApplication13.xml
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbprojResolveAssemblyReference.cache
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Form1.resources
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.Resources.resources
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.vbproj.GenerateResource.Cache
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.exe
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.xml
+c:\users\t\documents\visual studio 2015\Projects\WindowsApplication13\WindowsApplication13\obj\Debug\WindowsApplication13.pdb
